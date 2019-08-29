@@ -1,0 +1,10 @@
+#+TITLE: notes
+
+* api sutation
+** amazon offers none
+** ebay might have some
+https://developer.ebay.com/api-docs/buy/order/fields
+https://developer.ebay.com/api-docs/buy/order/fields
+** alibaba not sure
+the only api documentation that alibaba has is for
+https://open.alibaba.com/us/portal/resourceDetail?articleId=102840&categoryId=101733
